@@ -1,0 +1,67 @@
+
+.article-block {
+  	max-width: 1000px;
+  	padding-right:40px;
+ 	padding-left: 250px; /* Same as the width of the sidenav */
+  	padding-bottom: 40px;
+  	font-size: 20px; /* Increased text to enable scrolling */
+  	padding-top: 125px;
+}
+.article-block
+{
+	width: 1200px;
+
+}
+/*.pic-spacer{
+	height: 20px;
+	width:100%;
+	position: absolute;
+
+}*/
+
+/*img #vert{
+  width: 50%;
+  height: auto;
+}*/
+
+.pic-cont{
+	width: 50%;
+	height: auto;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 2px;
+	float:left; 
+	position:relative;
+	margin-bottom: 40px;
+}
+
+.cap-cont{
+	float:right; 
+	position:relative;
+	display: inline-block;
+	width: 350px;
+	padding-left: 20px;
+	padding-right:125px;
+	vertical-align: top;
+	top:-18px;
+
+
+}
+
+.article-title
+{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 16px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #0000EE;
+	font-weight: 400;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	line-height: .75;
+}
+
